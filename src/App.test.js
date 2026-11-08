@@ -6,5 +6,5 @@ test('renders lab week 09 student information', () => {
   expect(screen.getByText(/Welcome to Fullstack Development - I/i)).toBeInTheDocument();
   expect(screen.getByText(/React JS Programming Week09 Lab exercise/i)).toBeInTheDocument();
   expect(screen.getByText('101563313')).toBeInTheDocument();
-  expect(screen.getByText(/George Brown College, Toronto/i)).toBeInTheDocument();
+  expect(screen.getByText(/George Brown Polytechnic, Toronto/i)).toBeInTheDocument();
 });

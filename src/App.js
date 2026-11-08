@@ -9,8 +9,8 @@ function App() {
     title: 'Welcome to Fullstack Development - I',
     subtitle: 'React JS Programming Week09 Lab exercise',
     studentId: '101563313',
-    studentName: 'Sayuni',
-    college: 'George Brown College, Toronto',
+    studentName: 'Sayuni Wimaladharma',
+    college: 'George Brown Polytechnic, Toronto',
   });
 
   return (
